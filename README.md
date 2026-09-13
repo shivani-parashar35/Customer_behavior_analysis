@@ -20,8 +20,8 @@ The dataset was:
 
 🛠️ Tools & Technologies
 
-• Python (Pandas, NumPy, Matplotlib, Seaborn) - Data loading, cleaning & EDA    
-• SQL (MySQL / PostgreSQL / SQL Server) - Query and insights generation          
+• Python (Pandas, NumPy) - Data loading, cleaning & EDA    
+• SQL (MySQL / SQL Server) - Query and insights generation          
 • Power BI - Interactive dashboard, dashboard building and data visualization            
 • Gamma - Business report and presentation / PPT  creation
 • GitHub - Version control and project sharing 
@@ -95,8 +95,6 @@ Important trends and patterns in the dataset
 The insights were converted into data-driven recommendations that can support better business decision-making.
 
 🎯 Skills Demonstrated
-
-This project demonstrates practical experience in:
 
 • Python for Data Analysis
 • Exploratory Data Analysis
